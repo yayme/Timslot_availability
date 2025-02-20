@@ -1,4 +1,4 @@
-# Time Slot Availability
+# TimeSlot_Availability
 
 **Time Slot Availability** is an interactive Python application that allows users to create and manage availability schedules for weekdays. The application offers an easy-to-use interface for defining 30-minute time slots, and the flexibility to toggle availability with a simple mouse click. You can export your customized schedule as an image for sharing or printing.
 
